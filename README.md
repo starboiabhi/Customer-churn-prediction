@@ -1,2 +1,3 @@
 # Customer-churn-prediction
-Clearly state the objective, such as predicting customer churn to enable proactive retention strategies and minimize revenue loss.
+This project focuses on building a machine learning model to predict customer churn based on historical data. The goal is to identify customers likely to leave a service and enable proactive retention strategies. The workflow includes data cleaning, EDA, feature engineering, model training (Logistic Regression, Random Forest, XGBoost), evaluation, and deployment using Flask.
+
